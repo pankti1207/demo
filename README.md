@@ -26,3 +26,4 @@ code
 \* _**Star Rating**_ \*
 
 ![image](https://www.w3schools.com/Html/pic_trulli.jpg)
+\* _**demo lecture done**_ \*
